@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="adjunct-System.DataStructures.FuncComparer" Version="2.0.0"/>
+    <PackageReference Include="PInvoke.Shell32" Version="0.6.6"/>
+    <PackageReference Include="Win32Interop.Kernel32" Version="1.0.1"/>
+  </ItemGroup>
+</Project>

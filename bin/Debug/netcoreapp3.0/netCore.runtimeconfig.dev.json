@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Prexun\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Prexun\\.nuget\\packages"
+    ]
+  }
+}

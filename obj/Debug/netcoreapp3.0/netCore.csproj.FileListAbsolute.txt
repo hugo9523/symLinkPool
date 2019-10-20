@@ -1,0 +1,16 @@
+C:\Users\Prexun\Documents\netCore\bin\Debug\netcoreapp3.0\netCore.exe
+C:\Users\Prexun\Documents\netCore\bin\Debug\netcoreapp3.0\netCore.deps.json
+C:\Users\Prexun\Documents\netCore\bin\Debug\netcoreapp3.0\netCore.runtimeconfig.json
+C:\Users\Prexun\Documents\netCore\bin\Debug\netcoreapp3.0\netCore.runtimeconfig.dev.json
+C:\Users\Prexun\Documents\netCore\bin\Debug\netcoreapp3.0\netCore.dll
+C:\Users\Prexun\Documents\netCore\bin\Debug\netcoreapp3.0\netCore.pdb
+C:\Users\Prexun\Documents\netCore\obj\Debug\netcoreapp3.0\netCore.csprojAssemblyReference.cache
+C:\Users\Prexun\Documents\netCore\obj\Debug\netcoreapp3.0\netCore.AssemblyInfoInputs.cache
+C:\Users\Prexun\Documents\netCore\obj\Debug\netcoreapp3.0\netCore.AssemblyInfo.cs
+C:\Users\Prexun\Documents\netCore\obj\Debug\netcoreapp3.0\netCore.dll
+C:\Users\Prexun\Documents\netCore\obj\Debug\netcoreapp3.0\netCore.pdb
+C:\Users\Prexun\Documents\netCore\bin\Debug\netcoreapp3.0\PInvoke.Kernel32.dll
+C:\Users\Prexun\Documents\netCore\bin\Debug\netcoreapp3.0\PInvoke.Shell32.dll
+C:\Users\Prexun\Documents\netCore\bin\Debug\netcoreapp3.0\PInvoke.Windows.Core.dll
+C:\Users\Prexun\Documents\netCore\obj\Debug\netcoreapp3.0\netCore.csproj.CopyComplete
+C:\Users\Prexun\Documents\netCore\bin\Debug\netcoreapp3.0\Win32Interop.Kernel32.dll

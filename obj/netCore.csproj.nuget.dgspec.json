@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Prexun\\Documents\\netCore\\netCore.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Prexun\\Documents\\netCore\\netCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Prexun\\Documents\\netCore\\netCore.csproj",
+        "projectName": "netCore",
+        "projectPath": "C:\\Users\\Prexun\\Documents\\netCore\\netCore.csproj",
+        "packagesPath": "C:\\Users\\Prexun\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Prexun\\Documents\\netCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Prexun\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "PInvoke.Shell32": {
+              "target": "Package",
+              "version": "[0.6.6, )"
+            },
+            "Win32Interop.Kernel32": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "adjunct-System.DataStructures.FuncComparer": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
